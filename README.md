@@ -6,8 +6,8 @@ Markdownに画像を貼り付けるマクロ
 サクラエディタでMarkdownファイルを編集しているときに、クリップボードに保存している画像（スクリーンショットなど）を
 文章中にMarkdown形式で貼り付けるためのマクロです。
 
-開いているファイルと同じフォルダに``yyyymmddhhss.png``形式で画像ファイルを保存して、ファイルからの相対パスでリンクを貼り付けます。
+開いているファイルと同じフォルダに``yyyyMMddhhmmss.png``形式で画像ファイルを保存して、ファイルからの相対パスでリンクを貼り付けます。
 
 ```
-![yyyymmddhhss.png](./yyyymmddhhss.png)
+![yyyyMMddhhmmss.png](./yyyymmddhhss.png)
 ```
